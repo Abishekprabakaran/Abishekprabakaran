@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Abishek 👋</h1>
-<h3 align="center">Aspiring Data Analyst | Turning Raw Data into Business Insights</h3>
+<h3 align="center"> Data Analyst | Turning Raw Data into Business Insights</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abishek-p-84b376268/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Coimbatore,%20India-informational?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Bangalore,%20India-informational?style=for-the-badge"/>
 </p>
 
 ---
@@ -14,9 +14,6 @@
 - 📊 Currently a **Data Analyst Intern at TVS Digital (TVSD)** — Business Analytics & BI squad
 - 🔭 I build end-to-end data projects: cleaning → SQL analysis → BI dashboards
 - 🌱 Sharpening my skills in SQL, Python (Pandas), Power BI, and PostgreSQL
-- 💬 Ask me about data cleaning, SQL queries, or dashboard design
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abishek-p-84b376268/)
-
 ---
 
 ### 🛠️ Tech Stack
@@ -41,12 +38,6 @@ End-to-end pipeline using Python & PostgreSQL to analyze Walmart sales — clean
 
 **[Customer Behavior Analysis](https://github.com/Abishekprabakaran/customer_behavior_analysis)**
 End-to-end analysis of customer shopping behavior: data cleaning & feature engineering in Python, business queries in PostgreSQL/SQL, and an interactive Power BI dashboard.
-
-**[Foot Arch Classification](https://github.com/Abishekprabakaran/Foot-Arch-Classification)**
-Jupyter Notebook project applying data analysis/ML techniques to classify foot arch types.
-
-**[Portfolio Website](https://github.com/Abishekprabakaran/abishek_portfolio)**
-Personal portfolio site showcasing my projects and skills.
 
 ---
 
