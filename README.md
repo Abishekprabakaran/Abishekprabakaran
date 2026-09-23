@@ -45,7 +45,3 @@ End-to-end analysis of customer shopping behavior: data cleaning & feature engin
   <img src="https://github-readme-stats.vercel.app/api?username=Abishekprabakaran&show_icons=true&theme=default" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishekprabakaran&layout=compact" height="165"/>
 </p>
-
----
-
-<p align="center"><i>Open to Data Analyst opportunities — let's connect!</i></p>
