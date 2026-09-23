@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Abishek 👋</h1>
 <h3 align="center"> Data Analyst | Turning Raw Data into Business Insights</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abishek-p-84b376268/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Bangalore,%20India-informational?style=for-the-badge"/>
-</p>
-
 ---
 
 ### 🧠 About Me
